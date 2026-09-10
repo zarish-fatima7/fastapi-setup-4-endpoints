@@ -1,0 +1,13 @@
+
+value = float(input("Enter any number:"))
+print("Kilometeres in Meteres",value*1000)
+print("Meteres in Kilometeres",value/1000)
+
+print("Inches in Centimeteres",value*2.54)
+print("Centimeteres in Inches",value/2.54)
+
+print("Feet in Meteres",value*0.3048)
+print("Meteres in Feet",value/0.3048)
+
+print("Kilometeres in Miles",value/1.60934)
+print("Miles in Kilometeres",value*1.60934)
